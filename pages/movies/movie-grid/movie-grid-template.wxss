@@ -1,0 +1,10 @@
+@import "../movie/movie-template.wxss";
+/*实现页面样式*/
+.single-view-template{
+    float:left;
+    margin-bottom: 40rpx;
+}
+.grid-container{
+    height:1300rpx;/*为了判断是否触到底部，需要设置高度*/
+    margin:40rpx 0 40rpx 6rpx;
+}

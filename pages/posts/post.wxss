@@ -1,0 +1,12 @@
+/*引入模板中的post-item-template.wxss*/
+@import "post-item/post-item-template.wxss";
+swiper{
+    width:100%;
+    height:600rpx;
+}
+/*less sass*/
+swiper image{
+    width:100%;
+    height:600rpx;
+}
+
